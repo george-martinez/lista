@@ -6,6 +6,10 @@
     margin: 10px;
 }
 
+body{
+    background-color: antiquewhite;
+}
+
 .lista-box{
     display: flex;
     flex-direction: column;
