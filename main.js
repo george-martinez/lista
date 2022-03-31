@@ -12,7 +12,7 @@ const eliminarNombre = (elementoListaABorrar) => {
  
     for(let i = elementoListaABorrar.id; i < idArray.length; i++){
         idArray[i].setAttribute("id",i);
-    }
+    } 
 }
 
 const anadirNombre = () => {
